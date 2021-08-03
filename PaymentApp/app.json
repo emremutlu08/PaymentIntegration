@@ -1,0 +1,17 @@
+{
+  "name": "PaymentApp",
+  "displayName": "PaymentApp",
+  "expo": {
+    "name": "PaymentApp",
+    "slug": "PaymentApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
